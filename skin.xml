@@ -1,0 +1,17 @@
+<skin version="2" name="Windows 7 tray" author="" url="" email="" transparent_color="#66ccff">
+
+<player_window image="window_player.bmp">
+	<lyric position="4,5,20,41" image="lyrics.bmp"/>
+
+	<play position="22,5,45,40" image="1.bmp"/>
+	<pause position="22,5,45,40" image="1.bmp"/>
+	<stop position="46,5,69,40" image="2.bmp"/>
+	<open position="70,5,93,40" image="3.bmp"/>
+
+	<icon position="157,15,172,30" icon="icon.ico"/>
+</player_window>
+
+<lyric_window position="-61,-43,84,-1" resize_rect="2,2,143,40" image="window_lyrics.bmp">
+	<lyric position="1,1,145,42"/>
+</lyric_window>
+</skin>
